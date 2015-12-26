@@ -1,6 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: VEaqxm7USOvObxt98GDtug
-! [元素隐藏规则]/elemhide
+! Homepage: http://abpchina.org/forum/forum.php?mod=viewthr
 g.mozest.com###modarea
 g.mozest.com###forumheader
 g.mozest.com###common-footer
@@ -10,3 +9,4 @@ g.mozest.com##IMG[src="http://v.t.qq.com/share/images/s/b24.png"]
 user.qzone.qq.com###QM_Container_31
 user.qzone.qq.com###QM_Container_11
 movie.douban.com###footer
+!----------------------------------The End------------------------------------!
