@@ -1,2 +1,2 @@
 MotherFuckerFang_Modify
-https://github.com/phuslu/goproxy/issues/239/issu
+https://github.com/phuslu/goproxy/issues/239
